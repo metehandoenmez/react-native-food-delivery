@@ -6,28 +6,28 @@ export const categories = [
   },
   {
     id: 2,
-    name: "Burger",
-    image: require("../assets/images/pizzaIcon.png"),
+    name: "Hamburger",
+    image: require("../assets/images/burgerIcon.png"),
   },
   {
     id: 3,
-    name: "Italian",
-    image: require("../assets/images/pizzaIcon.png"),
+    name: "İtalyan",
+    image: require("../assets/images/italianIcon.png"),
   },
   {
     id: 4,
-    name: "Chinese",
-    image: require("../assets/images/pizzaIcon.png"),
+    name: "Çin Yemeği",
+    image: require("../assets/images/chineseIcon.png"),
   },
   {
     id: 5,
-    name: "Noodles",
-    image: require("../assets/images/pizzaIcon.png"),
+    name: "Tatlı",
+    image: require("../assets/images/sweetsIcon.png"),
   },
   {
     id: 6,
-    name: "Sweets",
-    image: require("../assets/images/pizzaIcon.png"),
+    name: "Noodle",
+    image: require("../assets/images/noodlesIcon.png"),
   },
 ];
 
